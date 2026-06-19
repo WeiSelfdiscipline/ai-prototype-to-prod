@@ -1,4 +1,4 @@
-# 跨项目逆向重构工作流（proto-refactor-pipeline）
+# AI 原型转前端代码工作流
 
 基于 Claude Code Skill 实现的自动化工作流：将 AI 快速原型逆向重构为生产级代码，支持任意目标项目。
 
