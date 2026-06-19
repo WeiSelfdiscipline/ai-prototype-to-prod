@@ -63,13 +63,13 @@
 **一键安装：**
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/WeiSelfdiscipline/proto-refactor-pipeline/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/WeiSelfdiscipline/ai-prototype-to-prod/main/install.sh | bash
 ```
 
 或手动复制：
 
 ```bash
-git clone https://github.com/WeiSelfdiscipline/proto-refactor-pipeline.git ~/.claude/skills/proto-refactor-pipeline
+git clone https://github.com/WeiSelfdiscipline/ai-prototype-to-prod.git ~/.claude/skills/proto-refactor-pipeline
 ```
 
 目录结构：
