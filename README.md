@@ -60,10 +60,16 @@
 
 ## 安装
 
-将 `proto-refactor-pipeline/` 目录放到 Claude Code 的 Skills 目录下：
+**一键安装：**
 
 ```bash
-cp -r proto-refactor-pipeline/ ~/.claude/skills/proto-refactor-pipeline/
+curl -fsSL https://raw.githubusercontent.com/WeiSelfdiscipline/proto-refactor-pipeline/main/install.sh | bash
+```
+
+或手动复制：
+
+```bash
+git clone https://github.com/WeiSelfdiscipline/proto-refactor-pipeline.git ~/.claude/skills/proto-refactor-pipeline
 ```
 
 目录结构：
